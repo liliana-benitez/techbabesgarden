@@ -3,6 +3,9 @@ import React, { useState } from "react"
 const RandomizeBlue = () => {
   const days = 365 // Number of days
   const shades = ["#e3f8fd", "#b5dce6", "#7edaf2", "#6ca7b6", "#3e6974"]
+  // USE SHADES BELOW FOR DARK MODE
+  // const shades = ["#000000", "#b5dce6", "#7edaf2", "#6ca7b6", "#3e6974"]
+
   const [contributions, setContributions] = useState(Array(days).fill(0))
 
   const handleClick = (index) => {
