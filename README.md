@@ -14,7 +14,7 @@ Inspired by GitHub’s contribution heatmap, this interactive tracker lets users
 - Deployment: (e.g., Netlify, Vercel, GitHub Pages)
 
 ## 🎬 Live Demo
-[Color Your Garden](https://techbabes-garden.netlify.app/)
+Try it here: [Tech Babes Garden](https://techbabes-garden.netlify.app/)
 
 ## 💻 Installation (if you want to run it locally)
 1. Clone the repo:  
